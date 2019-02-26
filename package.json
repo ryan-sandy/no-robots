@@ -1,6 +1,6 @@
 {
-  "name": "no-robots",
-  "version": "1.0.0",
+  "name": "@ryan-sandy/no-robots",
+  "version": "1.0.3",
   "description": "Deney all robots express middleware",
   "main": "index.js",
   "scripts": {
